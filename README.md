@@ -20,6 +20,8 @@ Here are some of the tools and technologies I've mastered:
 - ReactJS
 - NextJS
 - Typescript
+- Single SPA
+- Datadog
 - NodeJS
 - Express
 - Webpack
