@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm **Igor Sobral**, a seasoned **Senior Software Engineer** specializing in **Front-End Development**. Currently, I'm shaping the future of digital transactions at **Ticket Edenred**.
+I'm **Igor Sobral**, a seasoned **Senior Software Engineer** specializing in **Front-End Development**. Currently, I'm shaping the future of digital transactions at **1Global**.
 
 ## About Me 🚀
 
